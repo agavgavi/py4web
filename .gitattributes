@@ -3,9 +3,40 @@
 # CSS
 apps/todo/static/css/bulma.css linguist-vendored
 apps/myfeed/static/css/bulma.css linguist-vendored
+apps/myfeed/static/css/bulma.css linguist-vendored
+apps/_documentation/static/css/bulma.css linguist-vendored
+apps/_documentation/static/css/prism.css linguist-vendored
 apps/examples/static/font-awesome-4.7.0/* linguist-vendored
 
 # JS
 apps/todo/static/js/axios.min.js linguist-vendored
 apps/todo/static/js/sugar.min.js linguist-vendored
 apps/todo/static/js/vue.min.js linguist-vendored
+
+
+apps/_dashboard/static/js/ace/* linguist-vendored
+apps/_dashboard/static/js/sugar.min.js linguist-vendored
+apps/_dashboard/static/js/jquery.min.js linguist-vendored
+apps/_dashboard/static/js/axios.min.js linguist-vendored
+apps/_dashboard/static/js/vue.min.js linguist-vendored
+
+
+apps/_scaffold/static/js/sugar.min.js linguist-vendored
+apps/_scaffold/static/js/axios.min.js linguist-vendored
+apps/_scaffold/static/js/vue.min.js linguist-vendored
+
+
+apps/examples/static/js/axios.min.js linguist-vendored
+apps/examples/static/js/sugar.min.js linguist-vendored
+apps/examples/static/js/vue.min.js linguist-vendored
+apps/examples/static/js/vue.js linguist-vendored
+apps/examples/static/components/vueform/luxon.js linguist-vendored
+apps/examples/static/components/vueform/luxon.min.js linguist-vendored
+
+
+apps/myfeed/static/js/axios.min.js linguist-vendored
+apps/myfeed/static/js/sugar.min.js linguist-vendored
+apps/myfeed/static/js/vue.min.js linguist-vendored
+
+apps/_documentation/static/js/jquery.js linguist-vendored
+apps/_documentation/static/js/prism.js linguist-vendored
