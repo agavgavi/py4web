@@ -1,0 +1,11 @@
+# Mark third party dependencies to fix language stats
+
+# CSS
+apps/todo/static/css/bulma.css linguist-vendored
+apps/myfeed/static/css/bulma.css linguist-vendored
+apps/examples/static/font-awesome-4.7.0/* linguist-vendored
+
+# JS
+apps/todo/static/js/axios.min.js linguist-vendored
+apps/todo/static/js/sugar.min.js linguist-vendored
+apps/todo/static/js/vue.min.js linguist-vendored
